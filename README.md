@@ -6,4 +6,6 @@
 - *When one decides to adopt a growth oriented way of learning they dont veiw there peers as a competitor but as a teammate in a game where everyone is a winner*
 - * They tend to veiw obstacles very diffriently from those with a fixed mindset which is how most of the world tends to think*
 
-growth mindset table: ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+Please look at the tab;e to see some of the ways how a fixed and growth mindset my differ
+
+#__Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
