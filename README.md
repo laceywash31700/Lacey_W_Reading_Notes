@@ -8,4 +8,4 @@
 
 Please look at the tab;e to see some of the ways how a fixed and growth mindset my differ
 
-#__Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+# __Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
