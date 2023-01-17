@@ -8,4 +8,9 @@
 
 Please look at the tab;e to see some of the ways how a fixed and growth mindset my differ
 
-# __Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png =100X20)
+# __Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+
+### __How I can remind myself to remain in a growth mindset__
+
+1. know that every critisim is just going to help you be your best self. 
+2. when you make mistake know that 
