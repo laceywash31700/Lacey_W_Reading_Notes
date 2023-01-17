@@ -18,4 +18,4 @@ Please look at the tab;e to see some of the ways how a fixed and growth mindset 
 
 1. Understand that every critisim is there to help you be your best self. 
 2. When you make mistakeS and feel frustrated because you will say this phrase "How human of me." or try singing out your negative thoughts like if you think to yourself I'm worthless try singing "I'm worthless".
-3. [watch this video to assure myself that there is evidence to support that a growth mindset is worth it](https://www.youtube.com/watch?v=rf8FX2sI3gU)
+3. [Watch this video to assure myself that there is evidence to support that a growth mindset is worth it](https://www.youtube.com/watch?v=rf8FX2sI3gU)
