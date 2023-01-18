@@ -2,11 +2,12 @@
 
 > Markdown is a coding language that makes creating websites easier.
 
-> It uses syntax which is like grammer for writing in the english language to format and edit text
+> It uses syntax which is like grammer for writing in the english language to format and edit text or even images. 
+> cool right?
 
-> An exsample of this is if I wanted to make a header i would use #.
+> An exsample of this is if you wanted to make a header you would use #.
 
-# exsample header 
+# Example Header 
 
 > You can also add links to sentences like so check out this link to [Markdown syntax cheatsheet](https://www.markdownguide.org/basic-syntax/)
 
