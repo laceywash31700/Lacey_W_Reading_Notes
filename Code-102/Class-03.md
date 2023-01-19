@@ -1,9 +1,8 @@
 # Class-03 Reading Notes
 
 ## What is Git?
-> git is a version control system that allows developers to work on a code from diffrent enviorments like local and remote drives 
 
- To understand git you may want to understand the history of git. 
+To understand git you may want to understand the history of git. 
  
  ### History of Git
 > 1. **VCS (Version Control System)** 
@@ -22,3 +21,17 @@
 > corrupted, without a backup, you are fucked and all the work you and your team did would be lost except on local hardrives. To prevent this DVCS's were invinted. 
 > DVCS allowed you to mirror repos: that can be used to replace lost data. they can also make multiple mirrored repos allowing programmers to work in teams in various  
 > ways to complete joint projects. Which made work flow much easier, which leads us back to git.
+
+## So, what is git?
+ git is a version control system that allows developers to work on a code from diffrent enviorments like local and remote drives. Git is a DVCS that stores data in a 
+ file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to 
+ it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+    -It relies on local operations to because most information is already avalible on local disk. this makes collaboration much faster taking out the need to fetch 
+    information from a server allowing programmers to work even when offline or on a VPN.
+ 
+ Git changed two major things in programming.
+ 1. It allowed you to **keep track of changes** acting as a gatekeeper and detecting file corruption or loss of information in transit.
+ 
+ 2. Git is set up to greatly minimize the possibility of **lost data** to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of 
+    your file that is committed to be lost.
+ 
