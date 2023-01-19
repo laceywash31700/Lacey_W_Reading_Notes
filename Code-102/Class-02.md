@@ -1,61 +1,98 @@
-## _What Is A Growth Mindset?_
-
-- *A Growth mindset is a way of thinking that challeges you to be more kinder to yourself when learning new things; more simply, it's knowing how to learn.*
-- *When one decides to adopt a growth oriented way of learning they dont veiw there peers as a competitor but as a teammate in a game where everyone is a winner.*
-- *They tend to veiw obstacles very diffriently from those with a fixed mindset which is how most of the world tends to think.*
-
-Please look at this figure to see some of the ways how a fixed and growth mindset my differ 
-
-# __Growth Mindset Table 1.1:__ ![this is a image](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
-
-### __How I can remind myself to remain in a growth mindset__
-
-1. Understand that every critisim is there to help you be your best self. 
-2. When you make mistakeS and feel frustrated because you will say this phrase "How human of me." or try singing out your negative thoughts like if you think to yourself I'm worthless try singing "I'm worthless".
-3. [Watch this video to assure myself that there is evidence to support that a growth mindset is worth it](https://www.youtube.com/watch?v=rf8FX2sI3gU)
-
-# Top three proficiencies strengths.
-
-1. Openness
-
-- I tend to be really open to feedback and use it as a means to better myself and grow. Over the years I have grown to view criticism from others as a desire from that person for me to grow.  
-
-2. Ambition and initiative
-
-- Right now in this stage of my life I'm more determined than ever to achieve my goals and learn new skills. My long term goal right now is to learn programing so,  I can one day work at google or microsoft.
-
-3. Ownership  
-
-- I have always believed in Taking ownership for my actions and, holding myself accountable for the work me and my team does rather that be bad or good. I do have a tendency to look for the positive rather than the bad but, I embrace both equally the same.
-
-# Top three areas of growth.
-
-1. Networking
-
-- I am not the most social person. If im being completely honest I'm introvert through and through and, though sometimes it is a strength in certain situations but, as the saying goes "If you want go fast go alone but, if you want to go far go together." I'm still learning to practice that.
+# Class-02 Reading Notes
 
 
-2. Confidence
 
-- I sometimes deal with imposters syndrome. it's crazy to see myself in tech because i wasn't and am not the most tech savvy person but, I'm in the process of change my perspective from a fixed mindset to being more growth oriented.
 
-3. Handling Ambiguity  
+## What is a Text Editor? 
 
-- I have never been one to been told something ambiguous and just roll with it i need follow up questions and the like to understand what is being asked of me. In my adult life that has been happening more and more lately so, I'm  trying make peace with the unknown as opposed to getting anxiety when I'm not given clear instructions.
+> A text editor is a piece of software that you download and install on
+your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write
+to build a web site. When looking a text editor its probaly a good idea to make sure it has these three features.
 
-# Markdown
+- Syntax Highlights
+    - this displays text in diffrent colors or fonts for easy reading. 
+- Themes
+    - this is used for less strain on the the eyes.
+- Extentions
+    -for adding new programing languages for your text editor.
+- Code Completion
+    -this is used to reduce typos and mistakes in your syntax.
 
-> Markdown is a coding language that makes creating websites easier.
+## IDE OR Intergrated Development Enviorment
 
-> It uses syntax which is like grammer for writing in the english language to format and edit text or even images. 
-> cool right?
+> this is a more advanced program software developers use to complie code, source you code, and debugg your code.
 
-> An exsample of this is if you wanted to make a header you would use #.
+## Linux commands
 
-# Example Header 
+> to understand linux commands you should understand some key vocbulary and concepts
+>   - **Argument** 
+>       - A specificaion for a command.
+>   - **Command**
+>       - Is an action for a computer.
+>   - **Terminal(Command Line)**
+>       - A text based interface.
+>   - **Paths**
+>       - a path is a means of getting to specific file,directory or location in the system.Think of paths as a means to getting to another file 
+>   *It's important to note that everything and I mean everything is a file from your keyboard to your monitor as far as linux is concerned now it is also important to understand that linux organizes file in a hierarchical structure at the top of this structure is what we call a ***root directory*** which is denoted by a (/) and the root directory can be split into two categories.*
+>       - **Absolute**
+>          - specifies a location in relation to the root directory they will always have a (/) or forward slash in the beginning 
+>       - **Relative**
+>           -specifies a location in relation to where you are in the system they **do not** begin with a (/)
+>   *You should also know that **linux is case sensitive** so when naming files **you can have two file of the same name but cased diffrently and linux will veiw those files of the same name as two seperate files**
+>  files in linux can be seen as three diffrent types.
+>       - file.exe 
+>           - an executable file or program 
+>       - file.txt
+>           - a plain text file 
+>       - file.(png)(gif)(jpg)
+>           -an image file 
+>  
+>  **Finally one of the most important thing I can tell you 
+about linux is spaces matter** *for example if ypu had a 
+file named (Wedding Photos) linux would look at that 
+phrase as 
+two seperate files because the space is how we determine the 
+line the line argument but, all hope is not lost there are 
+two ways to remedy this problem.*
+>      
+>     Quotes  
+>      ('')("") will make those files viewed as one file. 
+>       Ex."Wedding Photo"
+>      
+>     Escape Characters 
+>       (\)backslash not to be confused with (/)forwardslash 
+>           ex. wedding /photos  
 
-> You can also add links to sentences like so check out this link to [Markdown syntax cheatsheet](https://www.markdownguide.org/basic-syntax/)
+*now that was alot of information; but still theres more.lets look at some of the commands you can do.*
+- pdw (Print Working Directory)
+    - This is used to tell wh.ere the present or working directory is.
+- ls (list files)
+    -this lets you know what files are inside of the file you are in 
+- cd (change directory)
+        - when used alone will take you to your home directory 
+- /etc
+        - stores config files for the system 
+- /var/log
+        -stores log files for various system programs 
+- /bin 
+        -location of several commonly used programs 
+- /usr/bin
+        -another location for programs on the system 
 
->WHEN USING MARKDOWN IT IS IMPORTANT TO BE EXACT OR YOUR COMPUTER WILL NOT KNOW WHAT YOU ARE TRYING TO DO AND IT IS A PAIN IN THE BUTT.
+*linux treats files as they are orginally for example you can rename a file.jpg as file.txt later is still a text file but linux still treats it as the former a image now that makes thing tricky to determine what the file is so use this command to find out what the file originally is.*
+- file
 
-There are loads more you can do but for now that is all I think you should know so far.
+## Shorthands 
+
+- (~) tilde- this is short hand for the home directory 
+- (.) dot- this is short hand for your current file you are in
+- (..) dotdot- this is shorthand for the parent file 
+you can do any way you like but I hope that helps
+
+## Hidden Files 
+
+linux will sometimes have hidden files or as I like to call them sneaky links they are denoted by the (.) dot before a files name for example (.file.jpg) there are loads of reasons for having hidden files and to be honest I dont fully understand why yet but, if you wanted to see those hidden file because a (ls) command would not let you see them first hand you could use this command 
+    
+    - (ls -a)
+
