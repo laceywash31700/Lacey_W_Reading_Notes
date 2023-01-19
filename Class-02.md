@@ -1,4 +1,9 @@
-# What is a Text Editor? 
+# Reading Notes
+
+
+
+
+## What is a Text Editor? 
 
 > A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
@@ -14,11 +19,11 @@ to build a web site. When looking a text editor its probaly a good idea to make 
 - Code Completion
     -this is used to reduce typos and mistakes in your syntax.
 
-# IDE OR Intergrated Development Enviorment
+## IDE OR Intergrated Development Enviorment
 
 > this is a more advanced program software developers use to complie code, source you code, and debugg your code.
 
-# Linux commands
+## Linux commands
 
 > to understand linux commands you should understand some key vocbulary and concepts
 >   - **Argument** 
@@ -71,14 +76,14 @@ to build a web site. When looking a text editor its probaly a good idea to make 
 *linux treats files as they are orginally for example you can rename a file.jpg as file.txt later is still a text file but linux still treats it as the former a image now that makes thing tricky to determine what the file is so use this command to find out what the file originally is.*
 - file
 
-# Shorthands 
+## Shorthands 
 
 - (~) tilde- this is short hand for the home directory 
 - (.) dot- this is short hand for your current file you are in
 - (..) dotdot- this is shorthand for the parent file 
 you can do any way you like but I hope that helps
 
-# Hidden Files 
+## Hidden Files 
 
 linux will sometimes have hidden files or as I like to call them sneaky links they are denoted by the (.) dot before a files name for example (.file.jpg) there are loads of reasons for having hidden files and to be honest I dont fully understand why yet but, if you wanted to see those hidden file because a (ls) command would not let you see them first hand you could use this command 
     
