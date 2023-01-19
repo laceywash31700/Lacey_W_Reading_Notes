@@ -42,6 +42,7 @@ to build a web site. When looking a text editor its probaly a good idea to make 
 >           - a plain text file 
 >       - file.(png)(gif)(jpg)
 >           -an image file 
+>  
 >  **Finally one of the most important thing I can tell you about linux is spaces matter** *for example if ypu had a file named wedding photos linux would look at that phrase as two seperate files because the space is how we determine the line the line argument, but all hope is not lost there are two ways to remedy this problem.*
 >       -quotes 
 >           -('')("") will make those files viewed as one file 
