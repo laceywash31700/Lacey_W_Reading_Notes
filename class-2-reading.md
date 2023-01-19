@@ -81,4 +81,5 @@ you can do any way you like but I hope that helps
 # Hidden Files 
 
 linux will sometimes have hidden files or as I like to call them sneaky links they are denoted by the (.) dot before a files name for example (.file.jpg) there are loads of reasons for having hidden files and to be honest I dont fully understand why yet but, if you wanted to see those hidden file because a (ls) command would not let you see them first hand you could use this command 
+    
     - (ls -a)
