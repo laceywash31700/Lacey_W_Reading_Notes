@@ -67,6 +67,7 @@ to build a web site. When looking a text editor its probaly a good idea to make 
     -location of several commonly used programs 
 - /usr/bin
     -another location for programs on the system 
-*linux treats files as they are orginally for example you can rename a file.jpg as file.txt later is still a text file but linux still treats it as the former a image now that makes thing tricky to determine what the file is so use this command to find out what the file originally is.
+
+*linux treats files as they are orginally for example you can rename a file.jpg as file.txt later is still a text file but linux still treats it as the former a image now that makes thing tricky to determine what the file is so use this command to find out what the file originally is.*
 - file
 # Hidden Files 
