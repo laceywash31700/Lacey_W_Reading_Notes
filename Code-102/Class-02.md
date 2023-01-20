@@ -1,13 +1,8 @@
 # Class-02 Reading Notes
 
-
-
-
 ## What is a Text Editor? 
 
-> A text editor is a piece of software that you download and install on
-your computer, or you access online through your web browser, that
-allows you to write and manage text, especially the text that you write
+> A text editor is a piece of software that you download and install on allows you to write and manage text, especially the text that you write
 to build a web site. When looking a text editor its probaly a good idea to make sure it has these three features.
 
 - Syntax Highlights
@@ -23,7 +18,7 @@ to build a web site. When looking a text editor its probaly a good idea to make 
 
 > this is a more advanced program software developers use to complie code, source you code, and debugg your code.
 
-## Linux commands
+## Linux Commands
 
 > to understand linux commands you should understand some key vocbulary and concepts
 >   - **Argument** 
