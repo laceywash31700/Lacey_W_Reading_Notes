@@ -32,5 +32,24 @@ To understand git you may want to understand the history of git.
  1. It allowed you to **keep track of changes** acting as a gatekeeper and detecting file corruption or loss of information in transit.
  
  2. Git is set up to greatly minimize the possibility of **lost data** to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of 
-    your file that is committed to be lost.
- 
+ your file that is committed to be lost.
+
+Files in **git can be in three diffrent states**
+
+ 1. Modified
+   - the file has been changed but not commited to the data base
+ 2. Commited
+   - Data is safely stored in the local data base 
+ 3. staged 
+   - Flagged as file's changed version to be commited in the next snapshot 
+
+### The Creator of Git.
+
+Git traces its roots to the open source software project Linux kernel. Developers of this project began using a DVCS 
+called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to tension between the Linux 
+kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status. 
+Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of 
+creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear 
+development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, 
+and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control 
+Systems in the world.
