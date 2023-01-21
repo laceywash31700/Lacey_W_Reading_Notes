@@ -91,3 +91,4 @@ linux will sometimes have hidden files or as I like to call them sneaky links th
     
     - (ls -a)
 
+## Things I want to know about.

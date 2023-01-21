@@ -53,3 +53,5 @@ creating a DVCS with a workflow design similar to that of BitKeeper, which was a
 development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, 
 and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control 
 Systems in the world.
+
+## Things I want to Know about.
