@@ -11,25 +11,25 @@ content also make it possible to use CSS and JavaScript to target the content.
 > ***Why is it important to use semantic elements in your HTML?***
 
 Semantics make it possible to give meaning to the content in which we are coding. For example, we would not 
-put the contents of an entire chapter in an book in an <h1> element because, the reader would read the 
+put the contents of an entire chapter in an book in an (h1) element because, the reader would read the 
 content in a large bold text making it difficult for screen readers or even search engines to navigate the 
 website. It would also make it harder to target this element in JS and CSS.From my understanding, you would 
-use <p> tags or even a <article> tag to do this as it's much easier to absorb the content and its also just 
+use (p) tags or even a (article) tag to do this as it's much easier to absorb the content and its also just 
 organized.
 
 >***How many levelss of headings are there in HTML?***
 
-> there are 6 heading elements in HTML <h1>,<h2>,<h3>,<h4>,<h5> and <h6>
+> there are 6 heading elements in HTML (h1),(h2),(h3),(h4),(h5) and (h6)
 
->***What are some uses for the <sup> and <sub> elements?***
+>***What are some uses for the <(sup)> and <(sub)> elements?***
 
-(<sub>) is a element that stands for **subscript** and (<sup>) stands for **superscript**. They are 
+<(sub)> is a element that stands for **subscript** and <(sup)> stands for **superscript**. They are 
 generally used to make the th in 25th day of the month a superscript or the chemical composition of caffine 
 C8H10N4O2 a subscript.  
 
-***When using the <abbr> element, what attribute must be added to provide the full expansion of the term?***
+***When using the <(abbr)> element, what attribute must be added to provide the full expansion of the term?***
 
-You use the tile attribute in a <abbr> tag so that screen readers will know what the full text mean. for 
+You use the tile attribute in a <(abbr)> tag so that screen readers will know what the full text mean. for 
 example if I wrote ISP in a p tag and the screen reader read it it would sound out isp. but if I but in the 
 abbreviation tag Internet Service Provider that would make it screen reader say the whole expansion of the 
 abbreviation.this is a means of adding accessiblity to a webpage.
@@ -58,7 +58,7 @@ and hard to read. Also, its just not efficent and coding is all about efficency.
 
 >***1) What is representing the selector?*** 
 
-The selector would be the h2 which in you HTML would be your <h2> tag this is what we are targeting 
+The selector would be the h2 which in you HTML would be your (h2) tag this is what we are targeting 
 
 >***2) Which components are the CSS declarations?***
 
@@ -150,9 +150,10 @@ if you add a (=) to either(>)(<) to the right of it you make it **greater than o
 from my knowledge they are used in loops 
 
 ## Things I want to know about.
+plese ignore parenthesis for question two and look at it as if it was not there. I had issues with formatting the way it was.
 
 1. How would I use a blockquote element properly and what would be its applications?
 
-2. what does &lt; and &gt; do?
+2. what does (&)lt; and (&)gt; do?
 
 3. I would need some clarification on the cite attribute why would I use this? 
