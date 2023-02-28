@@ -29,7 +29,7 @@ tables once upon a time in the dark ages of the internet people used to use tabl
 
 Constructors are kinda like functions but for objects. They kinda are a way to make a bunch of objects at once. which are kinda useful if you have to make multiple different objects with the same properties and methods. there are different methods(being ways to do something) to create constructors. You can use the class call and then name the class in parenthesis like so 
 
-class People(name,age){
+class People{
     constructor(name,age){
         this.name = name;
         this.age = age;
