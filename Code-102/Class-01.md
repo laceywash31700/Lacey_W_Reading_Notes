@@ -1,15 +1,15 @@
-# Class-01 Reading Notes 
+# Class-01 Reading Notes
 
 # Markdown
 
 > Markdown is a coding language that makes creating websites easier.
 
-> It uses syntax which is like grammer for writing in the english language to format and edit text or even images. 
+> It uses syntax which is like grammer for writing in the english language to format and edit text or even images.
 > cool right?
 
 > An exsample of this is if you wanted to make a header you would use #.
 
-# Example Header 
+# Example Header
 
 > You can also add links to sentences like so check out this link to [Markdown syntax cheatsheet](https://www.markdownguide.org/basic-syntax/)
 
@@ -17,4 +17,4 @@
 
 There are loads more you can do but for now that is all I think you should know so far.
 
-## Things I want to know about.
+## Things I want to know about
