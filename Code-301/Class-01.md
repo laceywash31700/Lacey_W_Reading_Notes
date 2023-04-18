@@ -24,4 +24,4 @@ props only flow in one direction from parent component to child component. the p
 
 ## Things I want to know about
 
-1. What do they mean by integrating processing logic in the conventional view of components are they sharing data or sharing a task we are defining when we 
+1. What do they mean by integrating processing logic in the conventional view of components are they sharing data or sharing a task we are defining when we create the file.
