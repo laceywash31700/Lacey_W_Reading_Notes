@@ -7,7 +7,7 @@
 >2. ***What is the very first thing to happen in the lifecycle of React?***
 > The mounting is the first thing that happens during the component life cycle. and in that the first thing that is done is the creation of the constructor.  
 >3. ***Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates***
->1 constructor
+> 1 constructor
 > 2 render
 > 3 React Updates
 > 4 componentDidMount
