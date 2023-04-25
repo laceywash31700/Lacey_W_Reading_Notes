@@ -7,12 +7,12 @@
 > 2. ***If I want to loop through an array and display each value in JSX, how do I do that in React?***
 > I'm guessing you would want a list of the values form the index so you would do this.
 >  const elements = {
-   theAvatar: [water,fire,earth,air]
+   theAvatar: [ water,fire,earth,air ]
    };
 >  function elementList(props){
 >     const elements = props.theAvatar
-    const elementList =  elements.map(v => <li key= {elements.tostring()}>{elements}</li>);
-     return {
+>    const elementList =  elements.map(v => <(li) key= {elements.tostring()}>{elements}</(li)>);
+>    return {
         <ul>{elementList}</ul>
      }
 }
