@@ -102,6 +102,12 @@ but, I'm in the process of change my perspective from a fixed mindset to being m
 - I have never been one to been told something ambiguous and just roll with it i need follow up questions and the like to understand
 what is being asked of me. In my adult life that has been happening more and more lately so, I'm  trying make peace with the unknown as opposed to getting anxiety when I'm not given clear instructions.
 
+## The CommandLine
+
+Besides this being a cool Band name it really is useful to learn about the man command here are my thought on it.
+
+-[Man-In-The-Terminal](./prepwork.md)
+
 ## Code 102- Intro to Software Development
 
 - [class-01](Code-102/Class-01.md)
