@@ -107,6 +107,7 @@ what is being asked of me. In my adult life that has been happening more and mor
 Besides this being a cool Band name it really is useful to learn about the man command here are my thought on it.
 
 -[Man-In-The-Terminal](./prepwork.md)
+-[MY-SQL-You-Can't-Have-It](./prepWorkTwo.md)
 
 ## Code 102- Intro to Software Development
 
