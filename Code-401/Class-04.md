@@ -9,20 +9,20 @@
 > SQL
 >
 > 3. ***Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.***
-> So SQL is best scaled by increasing the amount of horsepower think of it like a engine ti have it be faster you need to increase the size of the server where 
+> So SQL is best scaled by increasing the amount of horsepower think of it like a engine ti have it be faster you need to increase the size of the server where
 > as noSQL you want to increase the amount of engines in general meaning more servers as a whole.  
 >
 
 ## SQL modeling techniques
 
 > 1. ***Among data tables, what is a one-to-many relationship and how do we “relate” them?***
-> A "One To Many" refers to a table that has a relation to multiple different tables in a database 
+> A "One To Many" refers to a table that has a relation to multiple different tables in a database
 >
 > 2. ***Prior to designing your relational database, it might be useful to create__ a diagram__ of the database tables and their relationships.***
 >
 >
 > 3. ***Explain the difference between a primary and foreign key.***
-> Primary Keys uniquely identify the row in a table and usually have one key but can have more than one where as Foreign Keys are columns that match a primary 
+> Primary Keys uniquely identify the row in a table and usually have one key but can have more than one where as Foreign Keys are columns that match a primary
 > key in another table.
 >
 
@@ -41,11 +41,11 @@
 > Normalization is just ensuring that any data we get how every we get it or data we might be missing is put into a format that fits into the table schema
 >
 > 3. ***Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.***
-> In **one to one** relationship if we where to have a table that holds a person or user and another table that holds contact data now you need to connect them 
-> to one another and when you do connect them it is a one to one relationship now sometimes contact data can belong to multiple users making the relationship a 
-> **one to many** relation meaning that one table can be associated with multiple record same way you can have multiple products associated to multiple users. 
-> now in a situation where we are holding worker information where we have a user and those users have roles one user can have more than one role associated at 
-> there job this is where a **many to many** relationship come in where a third table can be used to sorta be the connection to user to there myriad of 
+> In **one to one** relationship if we where to have a table that holds a person or user and another table that holds contact data now you need to connect them
+> to one another and when you do connect them it is a one to one relationship now sometimes contact data can belong to multiple users making the relationship a
+> **one to many** relation meaning that one table can be associated with multiple record same way you can have multiple products associated to multiple users.
+> now in a situation where we are holding worker information where we have a user and those users have roles one user can have more than one role associated at
+> there job this is where a **many to many** relationship come in where a third table can be used to sorta be the connection to user to there myriad of
 > different roles they may have.
 
 ## Things I want to know about
